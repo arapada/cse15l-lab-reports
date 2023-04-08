@@ -1,4 +1,3 @@
-hiiiii aespa
-# New Heading
-**daniel ceasar**
-[Link](canvas.ucsd.edu)
+# Lab Report 1
+## How to Login to Course-Specific Account
+Click on this link to access your [course-specific account](https://sdacs.ucsd.edu/~icc/index.php).
