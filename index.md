@@ -44,8 +44,18 @@ Then, your terminal should be seen like this from the image below. This means yo
 ![Image](remotely-connecting3.png)
 
 ## Trying Some Commands
-Lets try out some commands from your course-specific account! Try typing '$ ls`
+Lets try out some commands from your course-specific account! Try typing `$ ls` .
 
 ![Image](some-cmds1.pmg)
 
 This will give you a list of files and folders. Since the account is pretty new, you only see one file called `perl5` which I don't know what that means.
+Let's try out another command. Try typing `$ ls -a` .
+
+![Image](some-cmds2.png)
+
+This will give you a list of files and along with the same folder `perl5`. I think these files are whats in the account since `-a` could mean the files pertaining in that account. LOL
+Let's try another commmand. Try typing `$ cat /home/linux/ieng6/cs15lsp23/public/hello.txt` 
+
+![Image](some-cmds3.png)
+
+This will print out the contents from the `hello.txt` file. It should print out `Hello!` since that's the only content from that file. The rest of the command like the `/home/linux/ieng6/cs15lsp23/public` is the absolute path to get to the *hello.txt* file. This means that, in order to access the .txt file, it goes through the working directory of `/home/linx/ieng6/cs15lsp23` then goes to the relative path of the folder `/public`.
