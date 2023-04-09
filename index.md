@@ -27,3 +27,7 @@ Then, click on the zip file in order to access the application. You should be ab
 You should have the application open and look something like this. VSCode doesn't have to look exactly like this but something similar as seen below.
 
 ![Image](vscode3.png)
+
+## Remotely Connecting
+Connecting remotely to your course-specific account requires your terminal. You can access your terminal through VSCode or your built-in terminal on your device. 
+
