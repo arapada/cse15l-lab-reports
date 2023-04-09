@@ -18,3 +18,6 @@ You should be able to reset your password for that account teehee. **DON'T RESET
 ## Installing VSCode
 Click on this link to download [VSCode](https://code.visualstudio.com/). Make sure to download for Mac or Windows depending on OS. 
 
+![Image](vscode1.png)
+
+Then, double-click on the application when it pops-up in order to install it through Mac.
