@@ -20,4 +20,6 @@ Click on this link to download [VSCode](https://code.visualstudio.com/). Make su
 
 ![Image](vscode1.png)
 
-Then, double-click on the application when it pops-up in order to install it through Mac.
+Then, click on the zip file in order to access the application. You should be able to double-click on the application to open it.
+
+
