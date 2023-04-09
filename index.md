@@ -16,4 +16,5 @@ Under **Addtional Accounts**, there should be a course-specific account that has
 You should be able to reset your password for that account teehee. **DON'T RESET YOUR ACTIVE DIRECTORY PASSWORD unless you actually forgot!!!**
 
 ## Installing VSCode
-Click on this link to download [VSCode](https://code.visualstudio.com/). Make sure to download for Mac or Windows depending on your device. 
+Click on this link to download [VSCode](https://code.visualstudio.com/). Make sure to download for Mac or Windows depending on OS. 
+
