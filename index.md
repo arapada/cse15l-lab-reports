@@ -31,3 +31,6 @@ You should have the application open and look something like this. VSCode doesn'
 ## Remotely Connecting
 Connecting remotely to your course-specific account requires your terminal. You can access your terminal through VSCode or your built-in terminal on your device. 
 
+To access your Terminal on VSCode, make sure to be on a new file (it can be any type of file) then click on Terminal -> New Terminal. This will pop out a new terminal that is shown to be connected to your User device.
+
+![Image](remotely-connecting1.png)
