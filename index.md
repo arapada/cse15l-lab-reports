@@ -22,4 +22,7 @@ Click on this link to download [VSCode](https://code.visualstudio.com/). Make su
 
 Then, click on the zip file in order to access the application. You should be able to double-click on the application to open it.
 
+![Image](vscode2.png)
+
+You should have the application open and look something like this. VSCode doesn't have to look exactly like this but something similar as seen below.
 
