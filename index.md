@@ -34,3 +34,8 @@ Connecting remotely to your course-specific account requires your terminal. You 
 To access your Terminal on VSCode, make sure to be on a new file (it can be any type of file) then click on Terminal -> New Terminal. This will pop out a new terminal that is shown to be connected to your User device.
 
 ![Image](remotely-connecting1.png)
+
+After that, use the command `$ ssh cs15lsp23ir@ieng6.ucsd.edu` that should prompt you into entering your password. If the terminal asks for you to enter your password again, that means you didn't input the right password that you have reseted when accessing your course-specifc account. *Refer to How to Login to Course-Specific Account IF you need to reset your password again.*
+
+![Image](remotely-connecting2.png)
+
