@@ -39,3 +39,6 @@ After that, use the command `$ ssh cs15lsp23ir@ieng6.ucsd.edu` that should promp
 
 ![Image](remotely-connecting2.png)
 
+Then, your terminal should be seen like this from the image below. This means you have successfully connected to the server **if that wasn't your first time**. If you prompted to show your fingerprint or a yes or no question, type in `yes`.
+
+![Image](remotely-connecting3.png)
