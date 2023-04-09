@@ -46,3 +46,6 @@ Then, your terminal should be seen like this from the image below. This means yo
 ## Trying Some Commands
 Lets try out some commands from your course-specific account! Try typing '$ ls`
 
+![Image](some-cmds1.pmg)
+
+This will give you a list of files and folders. Since the account is pretty new, you only see one file called `perl5` which I don't know what that means.
