@@ -10,7 +10,7 @@ Along with your student ID.
 
 After that, you should be directed to this page below
 
-![Image](Screenshot(3).png)
+![Image](course-specific-account2.png)
 
 Under **Addtional Accounts**, there should be a course-specific account that has the course name, number and term. For example, *cs15lsp23*.
 You should be able to reset your password for that account teehee. **DON'T RESET YOUR ACTIVE DIRECTORY PASSWORD unless you actually forgot!!!**
