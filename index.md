@@ -26,3 +26,4 @@ Then, click on the zip file in order to access the application. You should be ab
 
 You should have the application open and look something like this. VSCode doesn't have to look exactly like this but something similar as seen below.
 
+![Image](vscode3.png)
