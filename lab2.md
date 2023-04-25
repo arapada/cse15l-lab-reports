@@ -19,3 +19,13 @@ The methods called in the second screenshot are handleRequest() and main().
 
 The relevant arguments are the path and query. The values of relevant fields is the `String message`field. The values of relevant fields of the class change by updating message when updated from the URL, for example in the screenshot, "boom" was saved so "im like wassup hello" was the newest update on `String message`. The port number stays the same while URI changes when adding a new message on the web page because of the path and query. 
 
+## Part 2
+````
+@Test
+  public void testReverseInPlace3(){
+    int[] input3 = {4, 5, 9, 1};
+    ArrayExamples.reverseInPlace(input3);
+    assertArrayEquals(new int[] {1, 9, 5, 4}, input3);
+  }
+````
+  
