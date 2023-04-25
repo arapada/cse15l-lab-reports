@@ -38,5 +38,5 @@ An input that doesn't induce a failure, as a JUnit test and any associated code:
 ````
 The fix addresses the issue by debugging the reverseInPlace() method, this allowed us to fix the code by having to create a new variable in order to switch the values that the user wanted.
 
-## Part 3
+## Part 3!
 From lab 2, I didn't know it was possible to create web servers from java and having to easily access the code to make changes/debugs. I found that interesting because while I was making my `StringServer` web server, I was able to quickly make changes through VSCode while switching to the Internet. Although it was difficult to understand paths, queries and if I String.split() the URL correctly to get the message, it was nice to see how things work. 
