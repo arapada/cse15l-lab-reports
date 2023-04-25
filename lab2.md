@@ -20,7 +20,15 @@ The methods called in the second screenshot are handleRequest() and main().
 The relevant arguments are the path and query. The values of relevant fields is the `String message`field. The values of relevant fields of the class change by updating message when updated from the URL, for example in the screenshot, "boom" was saved so "im like wassup hello" was the newest update on `String message`. The port number stays the same while URI changes when adding a new message on the web page because of the path and query. 
 
 ## Part 2
+An input that doesn't induce a failure, as a JUnit test and any associated code: 
 ````
+  // Changes the input array to be in reversed order
+  static void reverseInPlace(int[] arr) {
+    for(int i = 0; i < arr.length; i += 1) {
+      arr[i] = arr[arr.length - i - 1];
+    }
+  }
+  
 @Test
   public void testReverseInPlace3(){
     int[] input3 = {4, 5, 9, 1};
@@ -28,4 +36,7 @@ The relevant arguments are the path and query. The values of relevant fields is 
     assertArrayEquals(new int[] {1, 9, 5, 4}, input3);
   }
 ````
-  
+The fix addresses the issue by debugging the reverseInPlace() method, this allowed us to fix the code by having to create a new variable in order to switch the values that the user wanted.
+
+## Part 3
+From lab 2, I didn't know it was possible to create web servers from java and having to easily access the code to make changes/debugs. I found that interesting because while I was making my `StringServer` web server, I was able to quickly make changes through VSCode while switching to the Internet. Although it was difficult to understand paths, queries and if I String.split() the URL correctly to get the message, it was nice to see how things work. 
