@@ -1,6 +1,7 @@
 # Lab Report 3
 ## Researching Commands
 `grep`
+
 Option: `-rl`
 
 Example 1:
