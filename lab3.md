@@ -22,3 +22,6 @@ $ grep -rl "danger" technical/911report/*.txt
   technical/911report/chapter-13.1.txt
 ...
 ```
+
+`$ grep -rl "string" <file or directory>` outputs lines of files that contain the inputted string. 
+This command is useful because it can accurately shows different files that contain the specific key. This is way easier than finding specific words or a puzzle to solve.
