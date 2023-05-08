@@ -27,6 +27,7 @@ $ grep -rl "danger" technical/911report/*.txt
 This command is useful because it can accurately shows different files that contain the specific key. This is way easier than finding specific words or a puzzle to solve.
 
 Source: CSE 15L Week 4, lab 3.
+---
 
 Option: `-i`
 
@@ -54,6 +55,7 @@ $ grep -i "Community" technical/government/About_LSC/*t.xt
 `$ grep -i "sTrInG" <file/directory>` outputs file and the lines that contain "sTrInG", ignoring case sensitivity. This is useful just incase you make any typos of any kind.
 
 Source: From using `man grep` in terminal.
+---
 
 Option: `-Eo '\b\w+ing\b'`
 
@@ -79,6 +81,7 @@ $ grep -Eo '\b\w+tion\b' technical/plos/*.txt
 `$ grep -Eo '\b\w+ing\b' <file/directory>` prints out the file and it's line containing the suffix "-ing". This is useful because it can help with getting a specific word in mind but forgot the rest of the word. 
 
 Source: ChatGPT by asking "how to use grep to only search words with specific suffix"
+---
 
 Option: `-A <number>`
 
