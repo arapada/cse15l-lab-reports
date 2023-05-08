@@ -49,4 +49,5 @@ $ grep -i "Community" technical/government/About_LSC/*t.xt
   technical/government/About_LSC/Comments_on_semiannual.txt:needs of the LSC client community. LSC recognizes that this work
 ...
 ```
+`$ grep -i "sTrInG" <file or directory>` outputs file and the lines that contain "sTrInG", ignoring case sensitivity. This is useful just incase you make any typos of any kind.
 
