@@ -55,6 +55,7 @@ $ grep -i "Community" technical/government/About_LSC/*t.xt
 `$ grep -i "sTrInG" <file/directory>` outputs file and the lines that contain "sTrInG", ignoring case sensitivity. This is useful just incase you make any typos of any kind.
 
 Source: From using `man grep` in terminal.
+
 ---
 
 Option: `-Eo '\b\w+ing\b'`
