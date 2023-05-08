@@ -1,6 +1,6 @@
 # Lab Report 3
 ## Researching Commands
-`grep`
+`$ grep`
 
 Option: `-rl`
 
@@ -26,7 +26,7 @@ $ grep -rl "danger" technical/911report/*.txt
 `$ grep -rl "string" <file/directory>` outputs lines of files that contain the inputted string. 
 This command is useful because it can accurately shows different files that contain the specific key. This is way easier than finding specific words or a puzzle to solve.
 
-Source: CSE 15L Week 4, lab 3.
+Source: CSE 15L Week 4, lab 3. Under "Counting Sizes of Text Files"
 ---
 
 Option: `-i`
@@ -54,7 +54,7 @@ $ grep -i "Community" technical/government/About_LSC/*t.xt
 ```
 `$ grep -i "sTrInG" <file/directory>` outputs file and the lines that contain "sTrInG", ignoring case sensitivity. This is useful just incase you make any typos of any kind.
 
-Source: From using `man grep` in terminal.
+Source: From using `$ man grep` in terminal.
 
 ---
 
@@ -112,4 +112,4 @@ $ grep -A 3 "increase" technical/911report/*.txt
 
 `$ grep -A <number> "string" <file/directory>` prints out the file and lines that contain "string" after a number of lines. This can be used to find context clues of a word or break down text files that include that string.
 
-Source: From using `man grep` in terminal.
+Source: From using `$ man grep` in terminal.
