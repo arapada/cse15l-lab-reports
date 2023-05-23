@@ -13,3 +13,11 @@ Step 5: Clone your fork of the repository from your Github account
 ![Image](step5.png)
 
 On the terminal, I typed `git clone https://github.com/arapada/lab7 <enter>`. WHich clones the repository under the account *arapada* .
+
+
+***
+
+Step 6: Run the tests, demonstrating that they fail
+
+![Image](step6.pmg)
+
