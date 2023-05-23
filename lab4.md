@@ -19,5 +19,5 @@ On the terminal, I typed `git clone https://github.com/arapada/lab7 <enter>`. WH
 
 Step 6: Run the tests, demonstrating that they fail
 
-![Image](step6.pmg)
+![Image](step6.png)
 
