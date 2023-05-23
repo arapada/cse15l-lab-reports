@@ -8,5 +8,7 @@ On the terminal, I typed `ssh cs15lsp23ir@ieng6.ucsd.edu <enter>`. This allows m
 
 Step 5: Clone your fork of the repository from your Github account
 
+***
+
 ![Image](step5.png)
 
