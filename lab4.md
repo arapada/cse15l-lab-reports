@@ -36,6 +36,14 @@ On the terminal, in order to edit the file, I typed `vim ListExamples.java<enter
 
 Step 8: Run the tests, demonstrating that they now succeed.
 
-image
+![Image](step8.png)
 
-After exiting `vim`, on the terminal, i did `bash test.sh<enter>` *to test the edit I made on ListExamples.java file, which should run the tests successfully.
+After exiting `vim`, on the terminal, i did `bash test.sh<enter>` *to test the edit I made on ListExamples.java file, which should run the tests successfully.*
+
+***
+
+Step 9: Commit and push the resulting change to yoru github account(you can pick any commit message!)
+
+image 
+
+On the terminal, I did
