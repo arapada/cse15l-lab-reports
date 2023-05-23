@@ -1,6 +1,6 @@
 # Lab Report 4
 ## Baseline
-Step 4: Log into ieng6
+## Step 4: Log into ieng6
 
 ![Image](step4.png)
 
@@ -8,7 +8,7 @@ On the terminal, I typed `ssh cs15lsp23ir@ieng6.ucsd.edu <enter>`. This allows m
 
 ***
 
-Step 5: Clone your fork of the repository from your Github account
+## Step 5: Clone your fork of the repository from your Github account
 
 ![Image](step5.png)
 
@@ -17,7 +17,7 @@ On the terminal, I typed `git clone https://github.com/arapada/lab7 <enter>`. WH
 
 ***
 
-Step 6: Run the tests, demonstrating that they fail
+## Step 6: Run the tests, demonstrating that they fail
 
 ![Image](step6.png)
 
@@ -25,7 +25,7 @@ On the terminal, I typed `cd lab7` *that was the name of the directory from the 
 
 ***
 
-Step 7: Edit the code to fix the failing test
+## Step 7: Edit the code to fix the failing test
 
 ![Image](step7.png)
 
@@ -34,7 +34,7 @@ On the terminal, in order to edit the file, I typed `vim ListExamples.java<enter
 
 ***
 
-Step 8: Run the tests, demonstrating that they now succeed.
+## Step 8: Run the tests, demonstrating that they now succeed.
 
 ![Image](step8.png)
 
@@ -42,7 +42,7 @@ After exiting `vim`, on the terminal, i did `bash test.sh<enter>` *to test the e
 
 ***
 
-Step 9: Commit and push the resulting change to yoru github account(you can pick any commit message!)
+## Step 9: Commit and push the resulting change to yoru github account(you can pick any commit message!)
 
 image 
 
