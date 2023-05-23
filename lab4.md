@@ -21,3 +21,5 @@ Step 6: Run the tests, demonstrating that they fail
 
 ![Image](step6.png)
 
+On the terminal, I typed `cd lab7` *that was the name of the directory from the repository that I have cloned from my github account.* ` <ctrl> + <c>` to copy and paste the junit test command for java, which is `<ctrl> + <v> javac -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar *.java <enter>`. `<ctrl> + <c>` again to copy and paste the run command for java. `<ctrl> + <p> ava -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ...` but I messed up because i forgot to include the `j` in `java` so i tried again... `j <ctrl> + <c>ava -cp .:lib/hamcrest-core-1.3.jar:lib/junit-4.13.2.jar org.junit.runner.JUnitCore ...`. *Should demonstrate the tests failed.*
+
