@@ -30,3 +30,12 @@ Step 7: Edit the code to fix the failing test
 ![Image](step7.png)
 
 On the terminal, in order to edit the file, I typed `vim ListExamples.java<enter>` which opens up vim. Then, I typed `/index1<enter> n n n n n n n n n n l l l l l r 2 <esc> :wq` *I searched for index1 because that was the only part where I needed to edit, then pressed `n` many times to get to the exact spot, replaced the 1 to 2, then saved and quit.*
+
+
+***
+
+Step 8: Run the tests, demonstrating that they now succeed.
+
+image
+
+After exiting `vim`, on the terminal, i did `bash test.sh<enter>` *to test the edit I made on ListExamples.java file, which should run the tests successfully.
