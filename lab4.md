@@ -44,6 +44,10 @@ After exiting `vim`, on the terminal, i did `bash test.sh<enter>` *to test the e
 
 ## Step 9: Commit and push the resulting change to yoru github account(you can pick any commit message!)
 
-image 
+![Image](step9.png)
 
-On the terminal, I did
+On the terminal, I did `git add ListExamples.java<enter>` which worked then did `git status<enter>` to see if the ListExamples.java file is ready to be commited and pushed into the repositiory for its new changes. After that, I typed `git commit -m "gogogo"<enter>` as the message for commit.
+
+![Image](step9pt2.png)
+
+Then, I did `git push git@github.com:arapada/lab7.git <enter>` for it to be pushed into the lab7 repository.
