@@ -8,4 +8,4 @@ TA message: Have you exactly checked your directory when copying the path from t
 
 The error is in line 15, where it says `cp ListExamples.java ../grading-area.txt` which causes the error of JUnit having trouble finding the ListExamples.java, thats the student submission through autograder, when the directory is trying to copy down a NON-existing directoy of a grading-area text file.
 
-![image]()
+![image](s3.png)
