@@ -17,3 +17,4 @@ To trigger the bug, in the terminal, I typed `bash grade.sh https://github.com/u
 To fix the bug, in line 15 of grade.sh bash script, we must delete `.txt` that is next to /grading-area in order for the work to clone, compile, run and output the correct output that the student wanted as seen from the first screenshot. 
 
 ## Part 2 - Reflection
+I learned during the second half of the quarter that we're capable of making our own version of autograder as a way to test if our code is passable in terms of the context of CSE 12. It was nice to learn about how small syntax errors can change the output of certain things in the bash script as my tutor has taught me, like when if there is no space in the argument of an if-else statement. I didn't know bash can be used easily than simply typing down each command on the terminal and hoping to lose track of what I'm doing. 
