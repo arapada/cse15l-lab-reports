@@ -1,3 +1,3 @@
 # Lab Report 5
 ## Part 1 - Debugging Scenario
-![image]()
+![image](s1.png)
